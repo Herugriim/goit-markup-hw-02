@@ -1,0 +1,25 @@
+.header {
+    color: #2E2F42;
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+.header .logo {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.header .accent {
+    color: #4D5AE5;
+}
+
+.header .address {
+    color: #434455;
+    font-weight: 400;
+
+}
+
+.header .link:hover,
+.header .link:focus {
+    color: #404BBF;
+}
