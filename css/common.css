@@ -1,10 +1,11 @@
 body {
-    font-family: "Roboto, Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     line-height: 1.5;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.02em;
+    background-color: #fff;
 }
 
 a {
@@ -16,4 +17,15 @@ a {
 
 ul {
     list-style: none;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 12px;
+    line-height: 1.16;
+    letter-spacing: 0.04em;
 }

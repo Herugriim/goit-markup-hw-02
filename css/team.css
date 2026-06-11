@@ -7,8 +7,11 @@
 }
 
 .team h3 {
+    font-size: 20px;
     text-align: center;
     color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.2;
 }
 
 .team p {
@@ -16,6 +19,8 @@
 }
 
 .team h2 {
+    font-size: 36px;
     color: #2E2F42;
     text-align: center;
+    line-height: 1.11;
 }

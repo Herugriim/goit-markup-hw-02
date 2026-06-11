@@ -4,9 +4,21 @@
     font-weight: bold;
 }
 
+.nav {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
+
 .header .logo {
     font-size: 18px;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.33;
 }
 
 .header .accent {
@@ -14,6 +26,7 @@
 }
 
 .header .address {
+    letter-spacing: 0.02em;
     color: #434455;
     font-weight: 400;
 
