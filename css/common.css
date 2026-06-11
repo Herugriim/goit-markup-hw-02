@@ -1,10 +1,10 @@
 body {
     font-family: "Roboto, Raleway", sans-serif;
     color: #434455;
-    line-height: 24px;
+    line-height: 1.5;
     font-size: 16px;
     font-weight: 400;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 a {

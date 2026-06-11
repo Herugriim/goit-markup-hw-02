@@ -10,9 +10,6 @@
     background-color: #2E2F42;
     text-align: center;
     line-height: 60px;
-
-    width: 700px;
-    margin: auto;
 }
 
 .hero .hero-button {
@@ -21,6 +18,9 @@
     border-color: #2E2F42;
     cursor: pointer;
     text-align: left;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .hero .hero-button:hover,
